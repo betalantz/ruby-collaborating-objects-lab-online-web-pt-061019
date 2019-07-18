@@ -7,8 +7,8 @@ class Song
 
   def initialize(name)
     @name = name
+    binding.pry
   end
 
-  binding.pry
 
 end
