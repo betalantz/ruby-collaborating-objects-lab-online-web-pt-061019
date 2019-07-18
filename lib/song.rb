@@ -9,6 +9,4 @@ class Song
     @name = name
   end
 
-  binding.pry
-
 end
